@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    border: 0;
+    background-color: #344A72;
+}
+form{
+    
+    background-color: #F0F0F0;
+    flex-direction: column;
+    display: flex;
+    padding: 15px;
+    width: 450px;
+    height: 600px;
+    gap: 15px;
+}
+input{
+    background-color:#FFFFFF ;
+    width: 450px;
+    height: 40px;
+    
+}
+.Sign{
+    background-color: #49C1A2;
+    color: #FFFFFF;
+    margin-top: 15px;
+}
+label{
+    background-color: #F0F0F0;
+}
+div{
+    background-color: #F0F0F0;
+}
+h1{
+    background-color: #F0F0F0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    padding: 200px;
+}
+.a1{
+    text-align: center;
+}
